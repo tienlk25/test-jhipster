@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.tienlk25.service"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "gateway",
+    "baseName": "jhipsterexample",
+    "packageName": "com.tienlk25.service",
+    "packageFolder": "com/tienlk25/service",
+    "serverPort": "9090",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mssql",
+    "prodDatabaseType": "mssql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MjcyZjhmMzQzMWQwYjA5MmE1ZjI5NTBhOTRmN2QyNmRkNGJhYTFjNDljZTQxNGVjNWFhZDk2YmIxOTIzYjhjNzAzZmRiMjJiZDJhZmVjMzQxMTM0OWQ1ODc1NDk0MDYyZDQwNjhhOGUwNWRkZWY4YjdhMTNjN2YxZmRjMjhlOTg=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1595487776577,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": [],
+    "reactive": true
+  }
+}
